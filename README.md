@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, How you doing!  👋
+- 🔭 I’m currently working as Software Engineer II at Cisco, India
+- 🌱 I’m currently working on Cloud Management Project using Go lang and React
 
 <!--
 **Jagrit29/Jagrit29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
