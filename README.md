@@ -1,6 +1,7 @@
 ### Hey, How you doing!  👋
-- Software Engineer II at Cisco (May 2022 - Present):
-  - Led the design and development of a centralized notification library used in 30+ microservices, significantly reducing maintenance time and effort.
+- Software Engineer II at Cisco (May 2022 - Present)
+- Software Engineer at Cisco (Aug 2021 - April 2022)
+- Software Engineer Intern at Cisco (Jan 2021 - July 2021)
 - Tech Stack Expertise:
   - Strong in Data Structures & Algorithms, Object Oriented Programming, Java, Golang, MongoDB, Docker, Jenkins, Swagger, Kafka, ELK, Openshift, Git, and CI/CD processes.
 - Recognition and Awards:
