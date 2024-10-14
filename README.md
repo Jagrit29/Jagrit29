@@ -1,9 +1,9 @@
-# Jagrit
+# Jagrit Jagrit
 
 **Email:** [jagritbhupal29@gmail.com](mailto:jagritbhupal29@gmail.com)  
 **Phone:** +91-9478345660  
 **Location:** Bengaluru, India  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jagrit07/)  
+[LinkedIn](https://www.linkedin.com/in/jagrit07/) &nbsp; [LeetCode](https://leetcode.com/u/jagrit_07/)
 
 ---
 
