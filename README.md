@@ -11,7 +11,7 @@
 
 **Technical Skills**
 
-- Java, Golang, Swagger, GIT, Docker, Jenkins, CI/CD, Openshift, Kafka, ELK, MongoDB
+- Java, Golang, Swagger, GIT, Docker, Jenkins, CI/CD, Kubernetes/OpenShift , Kafka, ELK, MongoDB
 - OOPs, Distributed Systems, Microservices, DSA, System Design
 
 **Soft Skills**
