@@ -1,74 +1,117 @@
-# Jagrit Jagrit
+<div align="center">
+  
+# Jagrit x Elegant Engineer
 
-**Email:** [jjagrit29@gmail.com](mailto:jjagrit29@gmail.com)   
-**Location:** Bengaluru, India  
-[LinkedIn](https://www.linkedin.com/in/jagrit07/) &nbsp; [LeetCode](https://leetcode.com/u/jagrit_07/)
+### Software Engineer II at Big Tech | 2000+ rating at LeetCode | VIT Vellore 2021
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagrit07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode%20Stats-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/jagrit_07/)
+[![X Followers](https://img.shields.io/twitter/follow/elegantswe?style=flat-square&logo=x&logoColor=white&label=X&color=000000)](https://x.com/elegantswe)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@elegantengineer)
+[![TopMate](https://img.shields.io/badge/TopMate-6366F1?style=flat-square&logoColor=white)](https://topmate.io/jagrit_07)
 
-## Skills
-
-**Technical Skills**
-
-- Java, Golang, Swagger, GIT, Docker, Jenkins, CI/CD, Kubernetes/OpenShift , Kafka, ELK, MongoDB
-- OOPs, Distributed Systems, Microservices, DSA, System Design
-
-**Soft Skills**
-
-- Leadership, Teamwork, Mentorship, Project Management
+</div>
 
 ---
 
-## Work Experience
+## 💡 About Me
 
-### **Software Engineer II**
-**Cisco**, Bengaluru, India  
-*May 2022 - Present*
+I'm a **Software Engineer II at Microsoft** with expertise in building **high-performance, scalable systems** using both **modern UI frameworks and robust backend architecture** (backend-heavy focus). I'm passionate about **DSA**, **System Design**, and **Interview Mentoring**.
 
-- Designed and developed a **centralised notification library** used in **30+** microservices to allow updates to be made in one place, reducing maintenance time and effort by **95%**.
-- Built and integrated microservices for self-provisioning of private cloud services like Kafka & Load Balancer, supporting CRUD and real-time notifications, which accelerated the entire process flow by **90%** for internal customers.
-- Led the development of a client-facing **Status Page** to publicly communicate the status of **100+ API** endpoints, increasing customer satisfaction and transparency.
-- Led E2E brownfield migration for **100+ OpenStack resources**, reducing provisioning time by **94%**.
-- Designed and implemented an effective PR review process and sanity checklist, reducing PR comments and increasing development speed by **80%**.
-- **Tech Stack:** REST API, Golang, GIT, Swagger, MongoDB, Docker, Jenkins, CI/CD, Openshift, ELK, Kafka
+- 🏆 **Top 2.5% on LeetCode** with 2000+ rating
+- 💼 **10 SWE Offers Cracked** from top tech companies
+- 🎓 **100+ Interview Rounds Given** 
+- 🎯 **Expert in DSA, LLD, HLD & HM Rounds** - helping candidates clear all interview levels
+- 🚀 **150+ TopMate Bookings** from candidates seeking mentorship
 
-### **Software Engineer I**
-**Cisco**, Bengaluru, India  
-*Aug 2021 - Apr 2022*
+<!-- --- -->
 
-- Implemented config audit automation for network devices, reducing manual work by **85%**.
-- Implemented Pre/Post checks automation, leading to a **50%** time improvement in the change request window.
-- **Tech Stack:** JavaScript, Python, Git, BPA, Cisco NSO
+<!-- ## 🛠️ Tech Stack
 
-### **Software Engineer Intern**
-**Cisco**, Bengaluru, India  
-*Jan 2021 - Jul 2021*
+<div align="center">
 
-- Developed a one-stop portal for **5+** network dashboards supporting flexible updates, enhancing the efficiency of network teams.
-- **Tech Stack:** ReactJS, Docker, Git, Bootstrap/SaaS, Jenkins, CI/CD, Openshift
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div> -->
+
+<!-- --- -->
+
+<!-- ## 📊 Quick Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🎯 **LeetCode Rank** | Top 2.5% (2000+) |
+| 💼 **SWE Offers Cracked** | 10 |
+| 🎓 **Interview Rounds Conducted** | 100+ |
+| ⭐ **TopMate Bookings** | 150+ |
+| 📚 **Years of Experience** | 4+ years |
+| 🏢 **Current Role** | Software Engineer II (Full Stack) |
+| 🌍 **Location** | Bengaluru, India |
+| 🎓 **Education** | B.Tech IT - VIT Vellore (9.42 CGPA) |
+
+</div> -->
+
+<!-- --- -->
+
+## 🎓 Resources that I used to clear interviews
+
+### 📚 DSA Resources
+
+<div align="center">
+
+[![Solve by Rating](https://img.shields.io/badge/🎯%20Solve%20by%20Rating-FF6B35?style=flat-square&logoColor=white)](https://zerotrac.github.io/leetcode_problem_rating/#/)
+[![LeetCode 150](https://img.shields.io/badge/📋%20LeetCode%20150-27AE60?style=flat-square&logoColor=white)](https://leetcode.com/studyplan/top-interview-150/)
+[![LeetCode Contest](https://img.shields.io/badge/🏆%20LeetCode%20Contest-9B59B6?style=flat-square&logoColor=white)](https://leetcode.com/contest/)
+
+</div>
 
 ---
 
-## Education
+### 🏗️ Low-Level Design (LLD) Resources
 
-**B.Tech in Information Technology**, VIT Vellore  
-*CGPA: 9.42*  
-*Jul 2017 - Jul 2021*
+<div align="center">
 
----
+[![Awesome LLD](https://img.shields.io/badge/📚%20Awesome%20LLD-1F6FEB?style=flat-square&logoColor=white)](https://github.com/ashishps1/awesome-low-level-design)
+[![Grokking LLD](https://img.shields.io/badge/📖%20Grokking%20LLD-F97316?style=flat-square&logoColor=white)](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
 
-## Initiatives & Projects
-
-- Developed a **Go CLI Utility** to automate schema generation tasks for the cost management tool, improving efficiency by **10x**.
-- Led the **UI modernization** of an entire application by designing a complete prototype for over **20+** screens in Figma to meet current industry standards.
+</div>
 
 ---
 
-## Achievements
+### 🏛️ High-Level Design (HLD) Resources
 
-- Received the Cisco **IT Challenge Coin** award for dedicated service and exemplary professionalism.
-- Earned an **Early Promotion** in recognition of exceptional performance and contribution to the team.
-- Awarded Cisco **Intern of the Month** for June 2021 for IT - Infrastructure APJC.
-- Ranked in the **Top 5%** on LeetCode with a maximum rating of **1900+**.
+<div align="center">
+
+[![ByteByteGo](https://img.shields.io/badge/🎥%20ByteByteGo-0EA5E9?style=flat-square&logoColor=white)](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
+[![HelloInterview](https://img.shields.io/badge/💼%20HelloInterview-EC4899?style=flat-square&logoColor=white)](https://www.hellointerview.com/)
+
+</div>
 
 ---
+
+## 🌟 Let's Connect
+
+I'm always open to discussing **system design**, **scalable architecture**, and **career growth**. Feel free to reach out!
+
+<div align="center">
+
+ [**💼 LinkedIn**](https://www.linkedin.com/in/jagrit07/) • [**🎯 LeetCode**](https://leetcode.com/u/jagrit_07/)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find these resources helpful, feel free to give this repo a star!
+
+</div>
