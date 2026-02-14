@@ -82,6 +82,8 @@ I'm a **Software Engineer II at Microsoft** with expertise in building **high-pe
 
 [![Awesome LLD](https://img.shields.io/badge/📚%20Awesome%20LLD-1F6FEB?style=flat-square&logoColor=white)](https://github.com/ashishps1/awesome-low-level-design)
 [![Grokking LLD](https://img.shields.io/badge/📖%20Grokking%20LLD-F97316?style=flat-square&logoColor=white)](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
+[![Elegant Engineer LLD Notes](https://img.shields.io/badge/📖%20Grokking%20LLD-F97316?style=flat-square&logoColor=white)](https://excalidraw.com/#json=ak4_2r4-SIWw-45P0VsnX,FKC44QwS9BIysasq8GSB5A)
+https://excalidraw.com/#json=ak4_2r4-SIWw-45P0VsnX,FKC44QwS9BIysasq8GSB5A
 
 </div>
 
