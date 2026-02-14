@@ -94,6 +94,7 @@ I'm a **Software Engineer II at Microsoft** with expertise in building **high-pe
 
 [![ByteByteGo](https://img.shields.io/badge/🎥%20ByteByteGo-0EA5E9?style=flat-square&logoColor=white)](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 [![HelloInterview](https://img.shields.io/badge/💼%20HelloInterview-EC4899?style=flat-square&logoColor=white)](https://www.hellointerview.com/)
+[![Educative System Design](https://img.shields.io/badge/💼%20Educative-EC4899?style=flat-square&logoColor=white)](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 </div>
 
